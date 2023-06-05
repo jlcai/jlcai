@@ -1,16 +1,13 @@
-### Hi there 👋
+```
+hello! my name is jasmine and i am an undergraduate compsci major @ umass amherst.
+i am interested in machine learning, artificial intelligence, and cybersecurity.
+͏
+here is a kitty
 
-<!--
-**jlcai/jlcai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                            ╱|、
+                          (˚ˎ 。7  
+                           |、˜〵          
+                          じしˍ,)ノ
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[personal website](https://s3gfault.dev)
