@@ -5,4 +5,3 @@
   |、˜〵          
   じしˍ,)ノ
 ```
-[personal website](https://s3gfault.dev)
